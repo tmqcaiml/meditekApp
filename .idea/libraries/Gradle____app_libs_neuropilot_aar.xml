@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/neuropilot.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70ce5451a247721999141bb11a939bc9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70ce5451a247721999141bb11a939bc9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70ce5451a247721999141bb11a939bc9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
